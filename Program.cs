@@ -23,7 +23,6 @@ namespace ConsoleApp1
             {
                 switch (c)
                 {
-                    
                     case 'M':
                     case 'm':
                         operation.Push(c);
